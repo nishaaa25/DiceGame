@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  text-align: center;
+  background-color: black;
+  width: 100%;
+  min-height: 100vh;
+  color: green;
+}
+.player {
+  display: inline-block;
+  padding: 20px;
+}
+.container h1 {
+  font-size: 100px;
+  padding: 40px 0px 70px;
+}
+.player h3 {
+  font-size: 21px;
+  padding-bottom: 20px;
+}
+.player img {
+  width: 200px;
+}
